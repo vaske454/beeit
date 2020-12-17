@@ -1,0 +1,6 @@
+name: Book List
+description: List all books with title and description
+core_version_requirement: ^8.8 || ^9
+type: module
+package: Book List
+version: 1.0
